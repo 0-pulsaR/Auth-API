@@ -1,5 +1,5 @@
 # Auth / User API 
-This is an Authentication and User API created with [Express.js](https://expressjs.com/).
+This is an Authentication and User API created with [Express.js](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/).
 
 ## Installation
 After cloning the repository run:
